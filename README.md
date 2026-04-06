@@ -26,6 +26,13 @@ Low-value customers represent around 34% of customers but contribute only 6% of 
 ## Dashboard
 
 ### Customer Distribution
-![Customer Distribution](customers_chart.png)
+![Customer Distribution](CustomerDistribution.png)
 
-###Customer Comparison (CustomerAnalysis.png)
+### Revenue Distribution
+![Revenue Distribution](RevenueDistribution.png)
+
+### Segment Comparison
+![Segment Comparison](SegmentComparison.png)
+
+### Customer Comparison 
+![Customer Comparison](CustomerAnalysis.png)
