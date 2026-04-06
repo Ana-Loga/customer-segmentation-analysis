@@ -1,5 +1,10 @@
 # customer-segmentation-analysis
 customer segmentation analysis using SQL and Power BI
+
+## SQL Query
+
+The SQL used for this analysis can be found in the `/sql` folder.
+
 # Customer Segmentation Analysis – Online Retail Dataset
 
 ## Key Insight
