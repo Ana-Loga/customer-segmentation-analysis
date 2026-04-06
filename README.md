@@ -25,4 +25,7 @@ Moderate-value customers make up the majority of both the customer base and tota
 Low-value customers represent around 34% of customers but contribute only 6% of total revenue, highlighting a significant imbalance between customer volume and revenue contribution.
 ## Dashboard
 
-![Dashboard](CustomerAnalysis.png)
+### Customer Distribution
+![Customer Distribution](customers_chart.png)
+
+###Customer Comparison (CustomerAnalysis.png)
