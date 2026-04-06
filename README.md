@@ -23,3 +23,6 @@ The analysis revealed clear differences between customer segments:
 High-value customers represent approximately 1% of the total customer base, yet contribute a disproportionately large share of total revenue (~31%). While these customers generate high revenue, they do not necessarily purchase frequently.
 Moderate-value customers make up the majority of both the customer base and total revenue. They purchase more consistently, though with lower individual transaction values compared to high-value customers.
 Low-value customers represent around 34% of customers but contribute only 6% of total revenue, highlighting a significant imbalance between customer volume and revenue contribution.
+## Dashboard
+
+![Dashboard]()
