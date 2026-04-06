@@ -2,6 +2,10 @@
 customer segmentation analysis using SQL and Power BI
 # Customer Segmentation Analysis – Online Retail Dataset
 
+## Key Insight
+
+A small group of high-value customers (~1%) generates a disproportionately large share of revenue (~31%), highlighting a strong imbalance in customer value distribution.
+
 ## Objective
 The goal of this project was to analyze customer purchasing behavior by identifying distinct customer segments based on purchase frequency and revenue contribution.
 The dataset used is the Online Retail dataset, which includes transactional data such as invoices, products, and customer identifiers.
@@ -36,3 +40,9 @@ Low-value customers represent around 34% of customers but contribute only 6% of 
 
 ### Customer Comparison 
 ![Customer Comparison](CustomerAnalysis.png)
+
+## Tools Used
+
+- SQL (SQLite, DBeaver)
+- Power BI
+- GitHub
